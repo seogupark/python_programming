@@ -1,0 +1,14 @@
+git 
+git --version
+git config 
+
+git config --global user.name seogupark
+git config --global user.email seogupark0@gmail.com
+
+cd C:\Education
+git clone https://github.com/seogupark/python_programming 
+
+cd python_programming 
+git add document.txt
+git commit -m "Add Text File [document.txt]"
+git push 

@@ -1,0 +1,12 @@
+conda create --name ch01 python=3.7
+conda activate ch01
+conda install jupyter notebook
+
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install scikit-learn
+--> conda install numpy pandas matplotlib seaborn scikit-learn
+
+jupyter notebook
